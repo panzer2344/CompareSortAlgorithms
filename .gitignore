@@ -27,3 +27,15 @@
 *.exe
 *.out
 *.app
+
+#MyIgnores
+*.tlog
+*.suo
+#*.db
+*.pdb
+*.log
+*.idb
+*.ilk
+*.log
+*.lastbuildstate
+/Debug
