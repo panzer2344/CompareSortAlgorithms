@@ -31,7 +31,7 @@
 #MyIgnores
 *.tlog
 *.suo
-#*.db
+*.opendb
 *.pdb
 *.log
 *.idb
